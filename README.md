@@ -8,7 +8,7 @@ Online kurz Visual Basic. NET I. Začiatočník je moderný objektovo orientovan
 2. Visual Basic .NET a Visual Basic for Application (VBA)
 3. Základy programovania Visual Basic for Application (VBA)
 
-## :heavy_check_mark: Využitie XML a XML Schema
+## :heavy_check_mark: Využitie Microsoft Visual Basic .NET
 1. **Desktopové aplikácie**
 2. Programy a makrá VBA pre Excel/Acces/Word/PowerPoint/Visio/Outlook
 3. Automatizácia Microsoft Office aplikácií
