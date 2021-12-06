@@ -4,9 +4,9 @@
 ## 📑 Anotácia a Osnova kurzu 
 Online kurz Visual Basic. NET I. Začiatočník je moderný objektovo orientovaný programovací jazyk implementovaný na platforme. NET. Predstavuje evolúciu klasického jazyka Visual Basic. Umožňuje vytvárať efektívne programy spustiteľné na platformách akými sú napríklad Windows, Linux alebo Mac OS. Online kurz Visual Basic. NET  je pre teba vhodný, ak sa chceš naučiť programovať vo Visual Basic.
 
-I. Visual Basic .NET
-II. Visual Basic .NET a Visual Basic for Application (VBA)
-III. Základy programovania Visual Basic for Application (VBA)
+1. Visual Basic .NET
+2. Visual Basic .NET a Visual Basic for Application (VBA)
+3. Základy programovania Visual Basic for Application (VBA)
 
 ## :heavy_check_mark: Využitie XML a XML Schema
 1. **Desktopové aplikácie**
